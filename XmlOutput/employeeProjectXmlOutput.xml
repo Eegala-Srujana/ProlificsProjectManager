@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployeeProjectProperties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeProjectProperties>
+    <ProjectId>1</ProjectId>
+    <ProjectName>s</ProjectName>
+    <EmployeeId>1</EmployeeId>
+    <FirstName>s</FirstName>
+    <LastName>d</LastName>
+    <RoleId>1</RoleId>
+  </EmployeeProjectProperties>
+</ArrayOfEmployeeProjectProperties>
