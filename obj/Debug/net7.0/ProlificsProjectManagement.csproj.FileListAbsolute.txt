@@ -1,0 +1,15 @@
+C:\Users\SEegala\Documents\ProlificsProjectManagement\bin\Debug\net7.0\ProlificsProjectManagement.exe
+C:\Users\SEegala\Documents\ProlificsProjectManagement\bin\Debug\net7.0\ProlificsProjectManagement.deps.json
+C:\Users\SEegala\Documents\ProlificsProjectManagement\bin\Debug\net7.0\ProlificsProjectManagement.runtimeconfig.json
+C:\Users\SEegala\Documents\ProlificsProjectManagement\bin\Debug\net7.0\ProlificsProjectManagement.dll
+C:\Users\SEegala\Documents\ProlificsProjectManagement\bin\Debug\net7.0\ProlificsProjectManagement.pdb
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.csproj.AssemblyReference.cache
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.AssemblyInfoInputs.cache
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.AssemblyInfo.cs
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.dll
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\refint\ProlificsProjectManagement.dll
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.pdb
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ProlificsProjectManagement.genruntimeconfig.cache
+C:\Users\SEegala\Documents\ProlificsProjectManagement\obj\Debug\net7.0\ref\ProlificsProjectManagement.dll
